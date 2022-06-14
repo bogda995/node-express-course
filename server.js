@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const mockUserDate=[
+const mockUserData=[
     {name:'Mark'},
     {name:'Jill'}
 ]
